@@ -22,7 +22,7 @@ list_of_file=[
     "config/config.yaml",
     "dvc.yaml",
     "params.yaml",
-    "requirement.txt",
+    "requirements.txt",
     "setup.py",
     "research/trials.ipynb",
     "templates/index.html"
